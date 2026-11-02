@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+matplotlib
+pyyaml
+nbformat
+nbconvert
+ipykernel
+imageio-ffmpeg
+# Opcional: inferencia por slicing para objetos pequeños
+sahi

@@ -1,0 +1,16 @@
+# Modelos pesados
+*.pt
+*.onnx
+runs/
+
+# Datasets y videos de entrada
+*.zip
+data/
+
+# Cachés
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.cache/
